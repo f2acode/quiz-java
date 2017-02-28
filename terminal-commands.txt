@@ -1,0 +1,28 @@
+Explorer (windows-linux):
+- cd <folder_name> = enter in the "folder_name" folder
+- cd .. = exit the actual folder and go to the upper folder
+- dir = lists all the folders in the actual folder
+- mkdir <folder_name> = creates a new folder
+- mkdir <folder_name>\<folder_name> = creates subdirectories
+- md <folder_name> <folder_name> <more_folders> = creates some new folders
+- rmdir <folder_name> /S /Q = delete a folder and it subfolders (/S) without a confirmation question (/Q)
+
+Browsers:
+- Shift + tab = Goes to the next tab (right)
+- Ctrl + shift + tab = Returns to the previous tab (left)
+- Ctrl + w = Close the actual tab
+- Ctrl + t = Open a new tab
+
+Github:
+- git clone <link> = downloads a repository and creates a link between the local repository and remote repository
+Pay attention to the folder you're in (git branch)
+- git branch = checks which branch you are
+- git fetch origin = downloads the remote repository files without merging them
+- git pull = download the remote repository and merge the files (it may causes conflicts)
+- git status = returns which branch you are, if it's up-to-date and what do you have to commit
+- git checkout -- <file_name> = discarts the changes in your working directory
+- git add --all = adds all the changed files to be commited
+- git commit -m "Message of what was changed" = commits the changes and adds a message to them
+- git push origin <branch> = pushs the commits to the branch
+- git checkout -b <branch> = creates a new branch and switch to it
+- git checkout <branch> = changes to the choosen branch
