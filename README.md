@@ -2,7 +2,7 @@
 
 Quiz com perguntas sobre Java, com dificuldades fácil, médio e difícil.
 
-##Conhecimento utilizado:
+## Conhecimento utilizado:
 * Structs
 * Ponteiros
 * Alocação dinâmica de memória
