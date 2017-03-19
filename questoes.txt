@@ -1,0 +1,213 @@
+1)Qual o nome da empresa que criou o Java?
+a- Sun Microsystems, empresa comprada pela Oracle em 2009
+b- Google, criadora de diversas outras linguagens
+c- Microsoft, em 2008
+d- Java Corp, empresa vendida para Google
+e- IBM, em 1999
+*a
+2)Qual a origem do nome atribuido ao Java?
+a- Ilha da Indonésia, onde fabricavam o café consumido pelos criadores
+b- Sobrenome de um programador famoso
+c- Símbolo flexibilidade hindiano
+d- Objeto em Sueco
+e- Apenas um nome fictício criado
+*a
+3)O que significa a sigla API?
+a- Applications Per Interface
+b- Applications Programming Inteconection
+c- Applications Programming Interface
+d- Applications Paralelo Internal
+e- All programm users
+*c
+4)Qual o papel da JVM?
+a- Interpretar o código intermediário, para executar o programa
+b- Compilar o código, gerando o .class
+c- Manipular o código, como uma IDE
+d- Transferir o código entre usuários
+e- Buscar programas específicos na internet
+*a
+5)O que são byte codes?
+a- Códigos de máquina, que são interpretados somente no mais baixo nível
+b- Códigos em ‘C’ que são transferíveis para linguagem Java
+c- Uma interpretação intermediária do codigo do programa, antes da versão final que é executada
+d- Versão final do programa, com executável
+e- Método de códificação, assim como TDD (Test Driven Development)
+*c
+6)Como se declara uma variável?
+a- int i = "a"; Onde int é um tipo de dado de caractere
+b- int a = 0; Onde int é o tipo de dado inteiro
+c- metodo(); Chamada de método necessário na declaração de uma variável
+d- declara variavel(); Método para declarar variável
+e- return i; Retornando a variável declarada
+*b
+7)O que é o garbage collector?
+a- Coletor de lixo robótico, que utiliza um sistema robusto
+b- Limpador de lixo (recursos/variáveis/etc) não utilizado pelo sistema
+c- Conexão garbage, um meio de comunicação entre computadores
+d- Construtor, para inicializar variáveis de um objeto
+e- Modelo de desenvolvimento ágil
+*b
+8)Como o Java garante a segurança do código que é executado?
+a- Negando acesso total ao usuário, permitido apenas para administradores
+b -Impedindo acesso direto à memória
+c- Com chaves de segurança impostas pelos fabricantes
+d- Não permitindo a executação de metodos sem parâmetros
+e- Através de monitoramento remoto
+*b
+9)O que é um método void?
+a- Método com retorno void, que é um tipo de dado
+b- Método que não possui retorno, ou seja é executado mas não fornece informação de volta
+c- Método que pode ser instanciado em outra classe
+d- Método conectado à internet, ou seja, online
+e- Método com dois retornos
+*b
+10)O que é Programação Orientada a Objetos?
+a- Programação Orientada a Objetos é uma forma de programação no qual os programas são organizados como um conjunto de objetos
+b- Objetiva, o que a torna mais rápida
+c- Com superclasses, o que gera herança
+d- Orientada à relações, um típico método de desenvolvimento ágil
+e- Com métodos, ao contrário da estruturada
+*a
+11)O que é uma classe?
+a- Uma coleção de variáveis pre definidas com objetivo de gerar codigo
+b- Classe é um modelo para um conjunto de objetos que compartilham uma estrutura comum e de um comportamento comum
+c- Variáveis modificáveis por métodos
+d- IDE, um programa para codificar em diversas linguagens
+e- Uma teoria computacional criada em 1999
+*b
+12)O que é um objeto?
+a- Uma coleção de variáveis, de mesmo tipo
+b- Conjunto de programadores trabalhando em harmonia
+c- Objeto é uma instância de uma classe. Ele tem estado, comportamento e identidade. Também é chamado de instância de uma classe.
+d- Conjunto predefinido de constantes 
+e- Instancia de variáveis em outras
+*c
+13)O que é um construtor?
+a- Trabalhador, escravo personalizável para o sistema
+b- Método, uma função específica para cálculos
+c- Variável, do tipo texto
+d- Declaração de variável, ou espaço de memória alocado
+e- Construtor é uma operação que cria um objeto, definindo suas características
+*e
+14)O que acontece se não definimos um construtor?
+a- É definido um construtor com zeros
+b- O programa não roda, pois haverão erros
+c- Bug, um erro no sistema
+d- O compilador cria um construtor padrão que não recebe nenhum argumento  quando é invocado.
+e- O programa rodará lentamente
+*d
+15)Como fazemos para imprimir uma string em Java?
+a- int I =0; Chamando o método "int"
+b- bool I = 1; Definindo uma variável booleana
+c- System.out.print(“String aqui dentro”);
+d- void static, palavras reservadas para impressão em Java
+e- Usando métodos prontos que são comprados por desenvolvedores
+*c
+16)Quais modificadores de acesso podem ser atribuídos à Classe?
+a- Apenas os modificadores “public” e “default”. Que definem o tipo de acesso permitido à classe
+b- return e break; Que retornam informações da classe a param a execução.
+c- int e string, que definem qual tipo de dado retornará da classe
+d- Não há como atribuir modificadores de acesso
+e- Nenhum modificador diferente de private
+*a
+17)Em regras gerais, como os modificadores devem ser atribuídos?
+a- Deve ser definido como “private” todos os atributos da classe e como “public” os métodos da classes.
+b- default, para qualquer caso
+c- private, garantindo a integridade dos dados
+d- public, para garantir o acesso dos dados sempre
+e- Não devem ser atribuídos
+*a
+18)Quando utilizamos o modificador “private”, quem possui acesso?
+a- Apenas os membros da classe, sendo necessário a implementação de métodos para pegar ou setar os valores por outras classes
+b- Todos, inclusive classes de outros pacotes
+c- Os membros de qualquer classe, contanto que dentro do pacote
+d- Usuários com acesso previlegiado, como administradores
+e- Apenas métodos com atributos numéricos
+*a
+19)Como se instancia um objeto?
+a- Nome_da_Classe nome_do_objeto = new Nome_da_Classe(Parâmetros);
+b- Colocando ele dentro de uma classe
+c- Nome_da_classe nomeDoObjeto;
+d- Int i=0;
+e- Através de um método chamado Instanciar();
+*a
+20)Em linguagens orientadas a objetos, os conceitos de ligação tardia e sobrecarga de
+métodos referem-se a:
+a- Herança
+b- Objetos
+c- Polimorfismo
+d- Encapsulamento
+e- TDD
+*c
+21)Assinale a alternativa que contém um método de ordenação que se baseia no padrão de
+projeto divisão e conquista. Esse método utiliza um elemento pivô para realizar a ordenação
+a- Quick sort
+b- Merge sort
+c- Insert sort
+d- Select sort
+e- Shotgun sort
+*b
+22)Em POO (Programação Orientada a Objetos), dizer que a classe A estende a classe B é o mesmo que dizer que:
+a- a classe B é subclasse de A;
+b- a classe A é superclasse de B;
+c- a classe A é derivada de B;
+d- a classe B é derivada de A;
+e- as classes A e B são irmãs.
+*c
+23)Em programação orientada a objetos, a possibilidade de haver funções de mesmo nome, com funcionalidades similares em classes sem nenhuma relação entre elas, denomina-se:
+a- encapsulamento
+b- objeto
+c- classe
+d- polimorfismo
+e- relacionamento hierárquico
+*d
+24)Qual o pior método de ordenação?
+a- Selection sort
+b- Merge sort
+c- Bubble sort
+d- O método depende do programador
+e- Shootgun sort
+*e
+25)Classes que encapsulam os tipos primitivos como objetos, agregando funcionalidades de conversão, são as chamadas, especificamente, classes:
+a- mothers
+b- abstratas
+c- primitivas
+d- aninhadas
+e- wrappers
+*e
+26)A cidade de São Paulo, que possuía uma população de 10.000.000 de habitantes, teve um aumento de mais 2.000.000 de novos habitantes. 
+Na associação da frase acima aos conceitos da modelagem orientada a objeto, é correto afirmar que São Paulo, população e aumento, referem-se, respectivamente, a:
+a- classe, objeto, instância de classe
+b- objeto, atributo, implementação por um método do objeto
+c- classe, objeto, atributo
+d- objeto, instância, operação
+e- classe, objeto, associação pelo método de agregação
+*c
+27)Na programação orientada a objetos, são características dos objetos:
+a- As classes, os métodos e as mensagens
+b- A identidade, os atributos e as operações
+c- O encapsulamento, a herança e o polimorfismo
+d- A instanciação, a generalização e a especialização
+e- A classificação, a composição e a decomposição
+*c
+28)O que é uma lianguagem de programação?
+a- Nenhuma das seguintes
+b- Meio de comunicação
+c- Método
+d- Conjunto de palavras e símbolos utilizados para escrever cada parte do programa
+e- Conjuntos de normas para programar
+*d
+29)O que significa JDK?
+a- Jose Duardo Kiko
+b- Jason Direct Kit
+c- Java Developer's Kit
+d- Java Development Kit
+e- Java Util Development
+*c
+30)O que é gerado pelo compilador Java?
+a- Bytecodes
+b- Binário interpretado
+c- Booleano
+d- Simbolos místicos
+e- Linguagem natural
+*a
