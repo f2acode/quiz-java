@@ -1,4 +1,4 @@
-# Projeto quiz em C
+# Projeto quiz Java
 
 Quiz com perguntas sobre Java, com dificuldades fácil, médio e difícil.
 
