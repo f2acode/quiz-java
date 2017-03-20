@@ -14,3 +14,7 @@ Quiz com perguntas sobre Java, com dificuldades fácil, médio e difícil.
 * Armazenamento de pontuação (.TXT) com escolha de nome
 * Possibilidade de escolha de níveis
 * Alta velocidade e eficiência de processamento	
+
+## Screenshot
+
+![alt tag](img/Screenshot.png)
